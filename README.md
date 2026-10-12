@@ -1,4 +1,4 @@
-# WS Retail ML Sales Forecasting
+# AWS Retail ML Sales Forecasting
 
 > **Academic project** developed over two months, from October 2025 to November 2025.
 

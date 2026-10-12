@@ -116,7 +116,7 @@ python 7_deployment.py
 python upload_forecast.py
 python visualisation.py
 ```
-
+ 
 ## Deployment difficulties
 
 | | |

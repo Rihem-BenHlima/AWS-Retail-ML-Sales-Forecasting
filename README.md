@@ -130,6 +130,7 @@ python visualisation.py
 
 The project successfully implemented an end-to-end sales forecasting and recommendation system by combining AWS SageMaker for modeling and deployment with OpenAI for AI-powered recommendations, delivering actionable insights through automated forecasting and interactive visualizations.
 
-## Notes
+## Implementation Notes
 
-Account IDs, role ARNs and API keys are read from environment variables and are not stored in this repo. Files marked "reconstructed" were rebuilt from project slides and may need small adjustments.
+Some AWS services and features were not accessible in my environment (e.g. due to account or permission restrictions). Where this was the case, I used accessible alternatives that serve the same role in the pipeline,
+so the overall architecture and data flow are unchanged.

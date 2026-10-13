@@ -87,7 +87,7 @@ Screenshots are stored in [docs/screenshots/](docs/screenshots/); file names sta
 
 Final dashboard:
 
-![Dashboard](docs/screenshots/step-10-dashboard.png)
+![Dashboard](dashboard/Dashboard.jpg)
 
 ## Model Development & Deployment
 
